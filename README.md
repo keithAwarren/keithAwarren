@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [PLANR](https://keithawarren.github.io/ApptPlanner/index.html)
 
-- 🌱 I’m currently learning **Python, React**
+- 🌱 I’m currently learning **Python, Electron, OpenAI**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **CSS, React, Express**
 
 - 📫 How to reach me **warrenkeith.music@gmail.com**
 
