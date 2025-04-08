@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithawarren" alt="keithawarren" /></a> </p>
 
-- 🔭 I’m currently working on [PLANR](https://keithawarren.github.io/ApptPlanner/index.html)
+- 🔭 I’m currently working on [errOracle](https://github.com/keithAwarren/errorMessageOracle/releases/tag/v1.0.1)
 
 - 🌱 I’m currently learning **Python, Electron, OpenAI**
 
